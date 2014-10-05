@@ -1,0 +1,13 @@
+It is the high performance Metadata information transferring& retrieval system.
+Or it is the high performance RPC messaging system.
+
+I use alot asynchronization techniques to build up it.
+
+Already have all those components designed and implemented:
+
+1) the high performance in-memory concurrent cache.
+2) muti-threads asynchronization system.
+3) adaptive prefetching mechanism in WAN metadata transferring.
+4) support multiple TCP streams and pipelining on Ftp protocol family like ftp, gridftp, gsiftp.
+5) passive persistent streams management, including TCP streams failure recovery.
+6) support ftp protocol metadata transferring on both control&data channel.
